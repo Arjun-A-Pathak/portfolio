@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 import { useState } from "react";
 
 const portfolio = {
-  name: "Your Name",
+  name: "Arjun Pathak",
   role: "Data Analyst / Developer",
   tagline: "I turn messy data into clear stories and build useful tools.",
   location: "City, Country",
