@@ -17,7 +17,7 @@ const portfolio = {
     linkedin: "https://www.linkedin.com/in/arjun-pathak-/",
     resume: "https://github.com/Arjun-A-Pathak/portfolio/blob/main/ARJUN_Pathak_Data_Analyst.pdf", // paste a resume link or file URL
   },
-  skills: [
+  skills: [ 
     "SQL",
     "Python",
     "Power BI",
