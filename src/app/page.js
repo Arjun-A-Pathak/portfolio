@@ -9,7 +9,7 @@ const portfolio = {
   name: "Arjun Pathak",
   role: "Data Analyst / Business Analyst",
   tagline: "I turn messy data into clear stories and build useful tools.",
-  location: "City, Country",
+  location: "Bengluru, India",
   email: "arjunpathak2018@gmail.com",
   phone: "+91 8770232036",
   socials: {
