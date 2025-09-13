@@ -21,6 +21,8 @@ const portfolio = {
     "SQL",
     "Python",
     "Power BI",
+    "Machine Learning",
+    "Web Scraping",
     "Tableau",
     "Excel",
     "Statistical Analysis",
