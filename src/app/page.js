@@ -10,12 +10,12 @@ const portfolio = {
   role: "Data Analyst / Business Analyst",
   tagline: "I turn messy data into clear stories and build useful tools.",
   location: "City, Country",
-  email: "you@example.com",
-  phone: "+91 90000 00000",
+  email: "arjunpathak2018@gmail.com",
+  phone: "+91 8770232036",
   socials: {
-    github: "https://github.com/yourhandle",
-    linkedin: "https://www.linkedin.com/in/yourhandle/",
-    resume: "#", // paste a resume link or file URL
+    github: "https://github.com/Arjun-A-Pathak",
+    linkedin: "https://www.linkedin.com/in/arjun-pathak-/",
+    resume: "https://github.com/Arjun-A-Pathak/portfolio/blob/main/ARJUN_Pathak_Data_Analyst.pdf", // paste a resume link or file URL
   },
   skills: [
     "SQL",
