@@ -7,7 +7,7 @@ import { useState } from "react";
 
 const portfolio = {
   name: "Arjun Pathak",
-  role: "Data Analyst / Developer",
+  role: "Data Analyst / Business Analyst",
   tagline: "I turn messy data into clear stories and build useful tools.",
   location: "City, Country",
   email: "you@example.com",
