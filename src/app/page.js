@@ -37,9 +37,9 @@ const portfolio = {
   ],
   experience: [
     {
-      company: "Lucent Pvt Ltd",
-      title: "Data Analyst Intern",
-      period: "2024 – Present",
+      company: "PYOR",
+      title: "Data Analyst",
+      period: "Nov-2023 – March-2025",
       summary:
         "Built interactive dashboards, conducted statistical analysis, and collaborated cross‑functionally to drive data‑informed decisions.",
       bullets: [
@@ -49,14 +49,14 @@ const portfolio = {
       ],
     },
     {
-      company: "Globiva Services Pvt Ltd",
-      title: "Associate",
-      period: "2023 – 2024",
+      company: "Mitiosys Services Pvt Ltd",
+      title: "Data Analyst",
+      period: "July-2022 – Oct-2023",
       summary:
         "Managed AMEX data and optimized sales strategies across multiple products using analytics and experimentation.",
       bullets: [
-        "₹1.2Cr+ revenue impact with optimized strategies",
-        "Mentored 100+ new joiners and refined playbooks",
+        "₹.5Cr+ revenue impact with optimized strategies",
+        "Mentored 10+ new joiners and refined playbooks",
         "Top performer multiple times",
       ],
     },
@@ -64,19 +64,15 @@ const portfolio = {
   achievements: [
     { title: "Top Performer (x2)", blurb: "Recognized for outstanding delivery and impact." },
     { title: "Quality Excellence", blurb: "Awarded for process and data quality improvements." },
-    { title: "Hackathon Winner", blurb: "Built an analytics app in 24 hours." },
+    { title: "Go Getter Award", blurb: "For demonstrating exceptional ownership, and  managing enterprise client projects with excellence." },
   ],
   education: [
     {
-      school: "Sharda University",
-      degree: "Master of Computer Applications (MCA)",
-      period: "2024 – 2026",
+      school: "Rajiv Gandhi Proudyogiki Vishwavidyala (R.G.P.V.) Bhopal",
+      degree: "Bachelor of Engineering",
+      period: "2014 – 2018",
     },
-    {
-      school: "Bhaskaracharya College of Applied Sciences",
-      degree: "B.Sc. Mathematics & Computing",
-      period: "2021 – 2024",
-    },
+  
   ],
   projectTabs: ["Python", "SQL", "Power BI", "Excel"],
   projects: [
